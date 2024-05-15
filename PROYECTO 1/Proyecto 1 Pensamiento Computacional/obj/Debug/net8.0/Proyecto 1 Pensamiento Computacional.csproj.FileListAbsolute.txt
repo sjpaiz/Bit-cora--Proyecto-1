@@ -1,0 +1,14 @@
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.AssemblyInfoInputs.cache
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.AssemblyInfo.cs
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.csproj.CoreCompileInputs.cache
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\bin\Debug\net8.0\Proyecto 1 Pensamiento Computacional.exe
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\bin\Debug\net8.0\Proyecto 1 Pensamiento Computacional.deps.json
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\bin\Debug\net8.0\Proyecto 1 Pensamiento Computacional.runtimeconfig.json
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\bin\Debug\net8.0\Proyecto 1 Pensamiento Computacional.dll
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\bin\Debug\net8.0\Proyecto 1 Pensamiento Computacional.pdb
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.dll
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\refint\Proyecto 1 Pensamiento Computacional.dll
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.pdb
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\Proyecto 1 Pensamiento Computacional.genruntimeconfig.cache
+C:\Users\jenfe\Documents\Proyecto 1 Pensamiento Computacional\obj\Debug\net8.0\ref\Proyecto 1 Pensamiento Computacional.dll
